@@ -6,7 +6,4 @@ router.use('/users', usersRoutes);
 router.use('/thoughts', thoughtsRoutes);
 
 module.exports = router;
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
+
